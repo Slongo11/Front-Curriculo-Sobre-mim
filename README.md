@@ -5,3 +5,5 @@ Foi desenvolvido um site com uma base de desenvolvimento na `Alura`, houveram gr
 ## Uma experiência incrivel
 
 Durante esse curso eu odiava o Front-end, porém após que comecei a aprender de uma forma divertida e com um objetivo comecei a adorar oque fiz e espero continuar aprimorando minhas habilidades e conhecimente referente a este projeto.
+
+- Link para o site: `https://front-curriculo-sobre-mim.vercel.app/index.html`
