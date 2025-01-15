@@ -1,0 +1,43 @@
+body {
+    background-color: #FFF8DC; /* Cornsilk */
+    color: #8B8000; /* Dark Yellow */
+    font-family: Arial, sans-serif;
+}
+
+header, footer {
+    background-color: #FFD700; /* Gold */
+    color: #FFFFFF;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #FFEC8B; /* Light Goldenrod */
+    padding: 10px;
+}
+
+nav a {
+    color: #8B8000; /* Dark Yellow */
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+main {
+    background-color: #FFFACD; /* Lemon Chiffon */
+    padding: 20px;
+}
+
+button {
+    background-color: #FFD700; /* Gold */
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+strong {
+    color: #FFD700; /* Gold */
+}
+
+button:hover {
+    background-color: #FFC107; /* Amber */
+}
